@@ -37,6 +37,19 @@ img:hover{
     filter: grayscale(1);
 }
 img:active{
-    border-top: 9px solid #555;
-    border-right: 9px solid #555;
+    border-top: 15px solid purple;
+    border-right: 9px solid purple;
+}
+.pixel{
+--size: 32px;
+
+  background: black;
+  width: var(--size);
+  height: var(--size);
+
+  box-shadow:
+    calc(1 * var(--size)) 0 0 gold,
+    calc(2 * var(--size)) 0 0 blue,
+    0 calc(1 * var(--size)) 0 red,
+    calc(1 * var(--size)) calc(1 * var(--size)) 0 hotpink;
 }

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="biblioteca.xsl"?>
+
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/xampp/htdocs/HTML_final_trimestre_2/biblioteca.xsd">
+  <libro>
+    <foto>summer.webp</foto>
+    <sexo>nlkjhñlk</sexo>
+    <titulo>Cat Summer</titulo>
+    <autor>Milan Kundera</autor>
+    <fechaPublicacion año="1973"/>
+  </libro>
+  <libro>
+    <foto>senda.webp</foto>
+    <sexo>nlkjhñlk</sexo>
+    <titulo>Senda cat</titulo>
+    <autor fechaNacimiento="28/03/1936">Mario Vargas Llosa</autor>
+    <fechaPublicacion año="1973"/>
+  </libro>
+  <libro>
+    <foto>miki.webp</foto>
+    <sexo>nlkjhñlk</sexo>
+    <titulo>Miki the cat</titulo>
+    <autor fechaNacimiento="28/03/1936">Mario Vargas Llosa</autor>
+    <fechaPublicacion año="1969"/>
+  </libro>
+</biblioteca>

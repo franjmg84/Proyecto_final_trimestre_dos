@@ -37,8 +37,8 @@ img:hover{
     filter: grayscale(1);
 }
 img:active{
-    border-top: 15px solid purple;
-    border-right: 9px solid purple;
+    border-top: 15px solid rgb(255, 90, 255);
+    border-right: 15px solid rgb(241, 68, 241);
 }
 .pixel{
 --size: 32px;

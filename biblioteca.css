@@ -29,14 +29,20 @@ h3{
     h3{
         display:block;
     }
+    img{
+        display:none;
+    }
 }
 h2:hover{
-    font-size: 180%;
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
 }
 img:hover{
-    filter: rgb(225, 106, 255);
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
 }
 img:active{
-    border-top: 15px solid rgb(255, 90, 255);
-    border-right: 15px solid rgb(241, 68, 241);
+    border-top: 9px solid rgb(107, 238, 255);
+    border-right: 9px solid rgb(124, 246, 255);
 }

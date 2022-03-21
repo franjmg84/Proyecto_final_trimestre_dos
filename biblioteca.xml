@@ -5,21 +5,21 @@
   <libro>
     <foto>summer.webp</foto>
     <sexo>nlkjhñlk</sexo>
-    <titulo>Cat Summer</titulo>
+    <titulo>The Best Summer</titulo>
     <autor>Milan Kundera</autor>
     <fechaPublicacion año="1973"/>
   </libro>
   <libro>
     <foto>senda.webp</foto>
     <sexo>nlkjhñlk</sexo>
-    <titulo>Senda cat</titulo>
+    <titulo>Senda Cool</titulo>
     <autor fechaNacimiento="28/03/1936">Mario Vargas Llosa</autor>
     <fechaPublicacion año="1973"/>
   </libro>
   <libro>
     <foto>miki.webp</foto>
     <sexo>nlkjhñlk</sexo>
-    <titulo>Miki the cat</titulo>
+    <titulo>Miki Boom</titulo>
     <autor fechaNacimiento="28/03/1936">Mario Vargas Llosa</autor>
     <fechaPublicacion año="1969"/>
   </libro>

@@ -34,7 +34,7 @@ h2:hover{
     font-size: 180%;
 }
 img:hover{
-    filter: grayscale(1);
+    filter: rgb(225, 106, 255);
 }
 img:active{
     border-top: 15px solid rgb(255, 90, 255);
